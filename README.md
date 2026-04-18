@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building frontend web applications using JavaScript and React.<br><br>👯 I’m looking to collaborate on  <br>Frontend projects using React and modern JavaScript.<br><br>🤝 I’m looking for help with  <br>Understanding backend development and how to connect it with frontend projects.<br><br>🌱 I’m currently learning  <br>React, frontend libraries, and exploring backend technologies.<br><br>💬 Ask me about  <br>JavaScript, DOM manipulation, React basics, and frontend development.<br><br>⚡ Fun fact  <br>I enjoy turning ideas into real projects and learning by building.
+🔭 I’m currently working on building frontend web applications using JavaScript and React.<br><br>👯 I’m looking to collaborate on Frontend projects using React and modern JavaScript.<br><br>🤝 I’m looking for help with understanding backend development and how to connect it with frontend projects.<br><br>🌱 I’m currently learning React, frontend libraries, and exploring backend technologies.<br><br>💬 Ask me about JavaScript, DOM manipulation, React basics, and frontend development.<br><br>⚡ Fun fact I enjoy turning ideas into real projects and learning by building.
 
 
 ## 🌐 Socials:
