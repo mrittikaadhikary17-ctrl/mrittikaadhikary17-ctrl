@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on building frontend web applications using JavaScript and React.<br><br>👯 I’m looking to collaborate on Frontend projects using React and modern JavaScript.<br><br>🤝 I’m looking for help with understanding backend development and how to connect it with frontend projects.<br><br>🌱 I’m currently learning React, frontend libraries, and exploring backend technologies.<br><br>💬 Ask me about JavaScript, DOM manipulation, React basics, and frontend development.<br><br>⚡ Fun fact I enjoy turning ideas into real projects and learning by building.
 
 
